@@ -36,6 +36,13 @@ For a quicker and easier method, you can use the provided script to restore the 
 
 3. The script will automatically add the necessary registry entry and prompt you to restart File Explorer.
 
+   ![image](https://github.com/user-attachments/assets/ba46f726-a1aa-4772-9bf4-92fc5bf0d710)
+
+   **To restart File Explorer:**
+   - Open **Task Manager** by right-clicking the taskbar and selecting **Task Manager**.
+   - Find **Windows Explorer** in the list of processes.
+   - Right-click on **Windows Explorer** and select **Restart**.
+
 ## Restoring Modern Context Menus
 
 To undo this change, open a Terminal window and execute the following command:
